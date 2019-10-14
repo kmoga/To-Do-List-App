@@ -12,6 +12,7 @@
 		55EE1282234D2CD1002B48CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55EE1280234D2CD1002B48CE /* Main.storyboard */; };
 		55EE1284234D2CD2002B48CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55EE1283234D2CD2002B48CE /* Assets.xcassets */; };
 		55EE1287234D2CD2002B48CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55EE1285234D2CD2002B48CE /* LaunchScreen.storyboard */; };
+		55EE128F234D4531002B48CE /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EE128E234D4531002B48CE /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		55EE1283234D2CD2002B48CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55EE1286234D2CD2002B48CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55EE1288234D2CD2002B48CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55EE128E234D4531002B48CE /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				55EE127C234D2CD1002B48CE /* AppDelegate.swift */,
 				55EE127E234D2CD1002B48CE /* ViewController.swift */,
 				55EE1280234D2CD1002B48CE /* Main.storyboard */,
+				55EE128E234D4531002B48CE /* DetailViewController.swift */,
 				55EE1283234D2CD2002B48CE /* Assets.xcassets */,
 				55EE1285234D2CD2002B48CE /* LaunchScreen.storyboard */,
 				55EE1288234D2CD2002B48CE /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55EE128F234D4531002B48CE /* DetailViewController.swift in Sources */,
 				55EE127F234D2CD1002B48CE /* ViewController.swift in Sources */,
 				55EE127D234D2CD1002B48CE /* AppDelegate.swift in Sources */,
 			);
